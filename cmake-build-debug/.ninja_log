@@ -1,0 +1,9 @@
+# ninja log v5
+30	65	1657311321152162687	data_managemnt_system	6298107abab936d7
+0	263	1657311564716652008	CMakeFiles/data_managemnt_system.dir/main.c.o	d39e81d6d06b5952
+0	46	1657311782440014314	build.ninja	5b591fe1d827478f
+0	271	1657311118326301552	CMakeFiles/data_managemnt_system.dir/src/main.c.o	9f42471597327130
+1	222	1657312275735049992	CMakeFiles/data_managemnt_system.dir/src/interface.c.o	6d64c25710ea33d3
+1	30	1657312321681222447	CMakeFiles/data_managemnt_system.dir/src/user.c.o	521e0d27b1e0af8a
+1	23	1657312332221622901	CMakeFiles/data_managemnt_system.dir/main.c.o	d39e81d6d06b5952
+23	72	1657312332271030818	data_managemnt_system	44d61cb9c270612a
